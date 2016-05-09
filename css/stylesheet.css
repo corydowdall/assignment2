@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#ffdd22;
+}
+
+h1 {
+	font-family: "Akzidenz Grotesk Roman";
+	color: #000;
+	font-size: 64px;
+	text-transform: uppercase;
+	letter-spacing: 2pt;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: "Futura LT";
+	color: #000;
+	font-size: 25px;
+	line-height: 1.3em;
+	letter-spacing: 1pt;
+}
+
+.section-subheading text-muted {
+	font-family: "Akzidenz Grotesk Roman";
+}
+
+.text-muted {
+    color: #000;
+}
+
+ul{
+	font-size:18px;
+
+}
+
+.jumbotron {
+	margin-top:10px;
+	background-color:#ffdd22;
+	color:#000;
+}
+
+.copy .col-md-4 p {
+	margin-top: 20px;
+	padding-top: 20px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000;
+	letter-spacing: .3pt;
+	margin-bottom: 50px;
+	color: #000;
+	font-size:18px;
+}
+
+.intro .col-md-8 hr {
+	margin: 0;
+	border-top-style: solid;
+	border-top-width: 5px;
+	border-top-color: #000;
+}
+
+.intro .container {
+	margin-top: 100px;
+}
+
+.navbar-inverse {
+	background:#000;
+}
+
+.page-header {
+	border-bottom:1px solid #000;
+}
+
+hr {
+    border-top: 1px solid #000;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 50%;
+      margin: auto;
+  }
+  
+.iframe{
+	position:relative;
+	right:-20px;	
+}
+
